@@ -3,7 +3,7 @@
 An example demonstrating how to load different Storyboard file depending on the current interface idiom (iPad or iPhone).
 
 # Tutorial
-[Load idiom-specific Storyboard in Xamarin.iOS with MvvmCross](https://ref.sbyte.dev/storyboard-xamarin)
+[Load idiom-specific Storyboard in Xamarin.iOS with MvvmCross](https://link.sbyte.dev/blog/prin53/storyboard-xamarin)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
